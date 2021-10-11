@@ -1,0 +1,54 @@
+body{
+    background-color:lightsalmon;
+}
+.a{
+    font-size: 40px;
+    margin-left: 5%;
+    color :dimgrey;
+}
+.b{
+    font-size: 25px;
+    margin-left: 10%;
+}
+.c, .d, .e{
+    font-size: 18px;
+    color:darkcyan;
+}
+.a1{
+    font-size: 25px;
+    margin-left: 17.5%;
+}
+.a2, .a2{
+    font-size: 18px;
+    color:darkcyan;
+}
+.evrei{
+    margin-left: 35%;
+}
+.a3{
+    font-size: 18px;
+    color:darkcyan;
+}
+.a4{
+    font-size: 25px;
+    margin-left: 17.5%;
+}
+.a5, .a6, .a7, .a8, .a9, .a10{
+    font-size: 18px;
+    color:darkcyan;
+}
+.a11{
+    font-size: 25px;
+    margin-left: 40%;
+}
+.kri, .kri2{
+    margin-left: 30%;
+}
+.a11{
+    font-size: 25px;
+    margin-left: 40%;
+}
+.a12, .a13{
+    font-size: 18px;
+    color:darkcyan;
+}
